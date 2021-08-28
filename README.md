@@ -1,1 +1,1 @@
-# Horse-stud---python-application-
+# Horse stud - python application
